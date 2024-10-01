@@ -1,7 +1,7 @@
 # Machine Learning e Data Science
 
 ### Conteúdo 
-#### Parte 1 - Classificação
+#### Parte 1 - Classificação **Finalizada: 01/10/2024**
 **Ementa:**  
 - Pré-Processamento dos dados 
 - Aprendizagem:

@@ -14,7 +14,7 @@
 - Avaliação de Algoritmos de Classificação
 - Combinação e rejeição de Classificadores
 ---  
-### Parte 2 - Regressão
+### Parte 2 - Regressão : Finalizada **10/10/2024**
 - Regressão Linear
 - Outros tipos de regressão:
   - Polinomial

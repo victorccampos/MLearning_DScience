@@ -23,4 +23,11 @@
   - SVM
   - Redes Neurais
 ---
-
+### Parte 3 - Regras de Associação : Finalizada **19/10/2024**  
+- Algoritmo apriori
+- Algortimo ECLAT (pyECLAT)
+---
+### Parte 4 - Agrupamento (clustering)  
+- *K-Means*
+- Hierárquico
+- DBSCAN

@@ -27,7 +27,7 @@
 - Algoritmo apriori
 - Algortimo ECLAT (pyECLAT)
 ---
-### Parte 4 - Agrupamento (clustering)  
+### Parte 4 - Agrupamento (clustering) : Finalizada **22/10/2024**
 - *K-Means*
 - Hierárquico
 - DBSCAN

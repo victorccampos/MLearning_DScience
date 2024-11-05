@@ -31,3 +31,7 @@
 - *K-Means*
 - Hierárquico
 - DBSCAN
+---
+### Parte 5 - Tópicos Complementares
+- Aprendizagem por reforço com Q-Learning (seção ruim 👎)
+- Dados desbalanceado : Undersampling TOMEK LINKS e Oversampling SMOTE

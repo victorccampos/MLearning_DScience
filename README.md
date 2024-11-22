@@ -38,3 +38,4 @@
 - Seleção de atributos :
   - `sklearn.feature_selection` `VarianceThreshold`
   - `skelean.ensemble` `ExtraTreesClassifier`
+- Redução de dimensionalidade (PCA, KPCA e LDA)

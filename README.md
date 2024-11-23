@@ -39,3 +39,4 @@
   - `sklearn.feature_selection` `VarianceThreshold`
   - `skelean.ensemble` `ExtraTreesClassifier`
 - Redução de dimensionalidade (PCA, KPCA e LDA)
+- Detecção de Outliers (`PyOD`)

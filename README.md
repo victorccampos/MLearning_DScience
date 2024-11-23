@@ -40,3 +40,7 @@
   - `skelean.ensemble` `ExtraTreesClassifier`
 - Redução de dimensionalidade (PCA, KPCA e LDA)
 - Detecção de Outliers (`PyOD`)
+- Séries Temporais
+  - AirPassengers.csv (Muito boa seção 👍)
+  - Facebook prophet 👎, apenas passou pela documentação
+  - [Documentação prophet](https://facebook.github.io/prophet/docs/quick_start.html)

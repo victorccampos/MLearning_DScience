@@ -44,3 +44,5 @@
   - AirPassengers.csv (Muito boa seção 👍)
   - Facebook prophet 👎, apenas passou pela documentação
   - [Documentação prophet](https://facebook.github.io/prophet/docs/quick_start.html)
+- Visão Computacional  
+  - Detecção e Rastreamento de Objetos

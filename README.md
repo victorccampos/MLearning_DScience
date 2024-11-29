@@ -1,13 +1,10 @@
-# Machine Learning e Data Science
+# Machine Learning e Data Science ⭐⭐⭐
 
 ### Conteúdo 
 #### Parte 1 - Classificação: **Finalizada: 01/10/2024**
 - Pré-Processamento dos dados 
-- Aprendizagem:
-  - Bayesiana
-  - Árvores de Decisão
+- Aprendizagem: Bayesiana, Árvore de Decisão, Baseada em Instâncias
   - Regras
-  - Baseada em instâncias
 - Regressão Logística
 - Máquinas de Vetores de suporte (SVM)
 - Redes Neurais Artificiais
@@ -16,12 +13,7 @@
 ---  
 ### Parte 2 - Regressão : Finalizada **10/10/2024**
 - Regressão Linear
-- Outros tipos de regressão:
-  - Polinomial
-  - Árvores de Decisão
-  - Random Forest
-  - SVM
-  - Redes Neurais
+- Outros tipos de regressão: Polinomial, Árvores de Decisão, Random Forest, SVM, Redes Neurais  
 ---
 ### Parte 3 - Regras de Associação : Finalizada **19/10/2024**  
 - Algoritmo apriori
@@ -32,7 +24,7 @@
 - Hierárquico
 - DBSCAN
 ---
-### Parte 5 - Tópicos Complementares
+### Parte 5 - Tópicos Complementares : Finalizada **28/11/2024**
 - Aprendizagem por reforço com Q-Learning (seção ruim 👎)
 - Dados desbalanceado : Undersampling TOMEK LINKS e Oversampling SMOTE
 - Seleção de atributos :
@@ -42,7 +34,11 @@
 - Detecção de Outliers (`PyOD`)
 - Séries Temporais
   - AirPassengers.csv (Muito boa seção 👍)
-  - Facebook prophet 👎, apenas passou pela documentação
-  - [Documentação prophet](https://facebook.github.io/prophet/docs/quick_start.html)
+  - Facebook prophet 👎, apenas passou pela [documentação](https://facebook.github.io/prophet/docs/quick_start.html)
 - Visão Computacional  
   - Detecção e Rastreamento de Objetos
+- Processamento de Linguagem Natural - **spaCy** (outdated 👎) e NLTK
+  - Marcação POS
+  - Lematização e Stemização
+  - Busca em Texto, Extração de Entidades Nomeadas e Wordcloud
+  - Classificação de sentimentos base twitter 
